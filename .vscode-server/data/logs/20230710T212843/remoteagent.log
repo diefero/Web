@@ -1,0 +1,18 @@
+2023-07-10 21:28:43.601 [info] 
+
+
+
+
+2023-07-10 21:28:43.725 [info] Extension host agent started.
+2023-07-10 21:28:43.940 [info] [127.0.0.1][d5ffe599][ManagementConnection] New connection established.
+2023-07-10 21:28:45.346 [info] [127.0.0.1][0f472987][ExtensionHostConnection] New connection established.
+2023-07-10 21:28:45.375 [info] [127.0.0.1][0f472987][ExtensionHostConnection] <2511> Launched Extension Host Process.
+2023-07-10 21:42:37.498 [info] [127.0.0.1][0f472987][ExtensionHostConnection] The client has reconnected.
+2023-07-10 21:42:39.599 [info] [127.0.0.1][d5ffe599][ManagementConnection] The client has reconnected.
+2023-07-10 21:43:03.687 [info] [127.0.0.1][d5ffe599][ManagementConnection] The client has reconnected.
+2023-07-10 21:43:04.104 [info] [127.0.0.1][0f472987][ExtensionHostConnection] The client has reconnected.
+2023-07-10 21:43:35.507 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-11 19:39:10.491 [info] [127.0.0.1][0f472987][ExtensionHostConnection] The client has reconnected.
+2023-07-11 19:39:13.125 [info] [127.0.0.1][d5ffe599][ManagementConnection] The client has reconnected.
+2023-07-11 20:27:17.294 [info] [127.0.0.1][d5ffe599][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-11 20:27:18.197 [info] [127.0.0.1][0f472987][ExtensionHostConnection] <2511> Extension Host Process exited with code: 0, signal: null.

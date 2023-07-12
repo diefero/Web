@@ -1,0 +1,20 @@
+2023-07-10 20:05:26.212 [info] 
+
+
+
+
+2023-07-10 20:05:26.213 [info] Extension host agent started.
+2023-07-10 20:05:26.325 [info] Started initializing default profile extensions in extensions installation folder. file:///home/diefero/.vscode-server/extensions
+2023-07-10 20:05:26.473 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/diefero/.vscode-server/extensions
+2023-07-10 20:05:26.523 [info] [127.0.0.1][13ff50f1][ManagementConnection] New connection established.
+2023-07-10 20:05:27.824 [info] [127.0.0.1][0f4bb270][ExtensionHostConnection] New connection established.
+2023-07-10 20:05:27.845 [info] [127.0.0.1][0f4bb270][ExtensionHostConnection] <680> Launched Extension Host Process.
+2023-07-10 20:18:22.800 [info] Getting Manifest... ritwickdey.liveserver
+2023-07-10 20:18:23.105 [info] Installing extension: ritwickdey.liveserver
+2023-07-10 20:18:31.485 [info] Extension signature is verified: ritwickdey.liveserver
+2023-07-10 20:18:48.813 [info] Extracted extension to /home/diefero/.vscode-server/extensions/.585eaf81-d7e2-45f6-9827-67ae9fc32e4a: ritwickdey.liveserver
+2023-07-10 20:18:48.834 [info] Renamed to /home/diefero/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-07-10 20:18:48.845 [info] Extracting extension completed. ritwickdey.liveserver
+2023-07-10 20:18:48.868 [info] Extension installed successfully: ritwickdey.liveserver
+2023-07-10 20:28:57.802 [info] [127.0.0.1][13ff50f1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-10 20:28:58.148 [info] [127.0.0.1][0f4bb270][ExtensionHostConnection] <680> Extension Host Process exited with code: 0, signal: null.
