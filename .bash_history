@@ -39,3 +39,21 @@ ssh-keygen -t ed25519 -C dieferodriguezg@gmail.com
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub
+ls
+cd proyectopersonal
+clear
+ls
+git init
+git status
+git add
+git add web.html
+git add .
+git status
+git commit -m "Mi primer comic"
+git config --global user.name "diefero"
+git config --global user.email dieferodriguezg@gmail.com
+git commit -m "Mi primer comic"
+git remote add origin https://github.com/diefero/myweb.git
+git remote -v
+git push origin main
+git push origin main master
