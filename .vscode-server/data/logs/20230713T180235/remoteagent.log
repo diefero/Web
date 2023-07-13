@@ -1,0 +1,9 @@
+2023-07-13 18:02:35.569 [info] 
+
+
+
+
+2023-07-13 18:02:35.741 [info] Extension host agent started.
+2023-07-13 18:02:36.093 [info] [127.0.0.1][edbe685d][ManagementConnection] New connection established.
+2023-07-13 18:02:37.342 [info] [127.0.0.1][328cb90e][ExtensionHostConnection] New connection established.
+2023-07-13 18:02:37.365 [info] [127.0.0.1][328cb90e][ExtensionHostConnection] <950> Launched Extension Host Process.
