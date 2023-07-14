@@ -7,3 +7,6 @@
 2023-07-13 18:02:36.093 [info] [127.0.0.1][edbe685d][ManagementConnection] New connection established.
 2023-07-13 18:02:37.342 [info] [127.0.0.1][328cb90e][ExtensionHostConnection] New connection established.
 2023-07-13 18:02:37.365 [info] [127.0.0.1][328cb90e][ExtensionHostConnection] <950> Launched Extension Host Process.
+2023-07-13 18:46:10.050 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-13 18:47:49.889 [info] [127.0.0.1][edbe685d][ManagementConnection] The client has reconnected.
+2023-07-13 18:47:50.322 [info] [127.0.0.1][328cb90e][ExtensionHostConnection] The client has reconnected.
